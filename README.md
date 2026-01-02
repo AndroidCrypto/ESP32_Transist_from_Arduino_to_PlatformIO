@@ -1,2 +1,4 @@
-# ESP32_Transist_from_Arduino_to_PlatformIO
-Easily transform the development for your ESP32 project from Arduino to PlatformIO, shown with an ESP32 LilyGo T-Display device
+# ESP32 LilyGo T-Display Easily transform the development for your ESP32 project from Arduino to PlatformIO
+
+This is the accompanying repository for my article "LilyGo T-Display Easily transform the development for your ESP32 project from Arduino to PlatformIO" available here:
+
