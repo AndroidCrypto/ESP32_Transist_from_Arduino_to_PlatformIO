@@ -18,6 +18,8 @@ This is the accompanying repository for my article "LilyGo T-Display Easily tran
 
 - ESP32 IDF version (pioarduino): https://github.com/platformio/platform-espressif32/releases
 
+![Image 1](./images/pioarduino_v01_600w.jpg)
+
 - ## Development Environment (Arduino)
 ````plaintext
 Arduino IDE Version 2.3.6 (Windows)
