@@ -6,7 +6,7 @@ This is the accompanying repository for my article "LilyGo T-Display Easily tran
 
 Arduino version: [Esp32_T_Display_Adafruit_Transition_v01](https://github.com/AndroidCrypto/ESP32_Transist_from_Arduino_to_PlatformIO/tree/main/Esp32_T_Display_Adafruit_Transition_v01)
 
-PlatformIO version: [Esp32_T-Display_Adafruit_Transition_v02](https://github.com/AndroidCrypto/ESP32_Transist_from_Arduino_to_PlatformIO/tree/main/Esp32_T-Display_Adafruit_Transition_v02)
+PlatformIO version: [Esp32_T-Display_Adafruit_Transition_v02](https://github.com/AndroidCrypto/ESP32_Transist_from_Arduino_to_PlatformIO/tree/main/Esp32_T-Display_Adafruit_Transistion_v02)
 
 ## Resources for PlatformIO
 
