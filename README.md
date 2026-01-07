@@ -2,7 +2,7 @@
 
 This is the accompanying repository for my article "**LilyGo T-Display Easily transform the development for your ESP32 project from Arduino to PlatformIO**" available here: https://medium.com/@androidcrypto/lilygo-t-display-easily-transform-the-development-for-your-esp32-project-from-arduino-to-platformio-654b4eb918c8
 
-The code for the tutorial "**How you work with multiple configurations on your ESP32 PlatformIO project**" () is placed here as well.
+The code for the tutorial "**How you work with multiple configurations on your ESP32 PlatformIO project**" (https://medium.com/@androidcrypto/how-you-work-with-multiple-configurations-on-your-esp32-platformio-project-76697d0ed442) is placed here as well.
 
 ## Sketches
 
