@@ -4,6 +4,8 @@ This is the accompanying repository for my article "**LilyGo T-Display Easily tr
 
 The code for the tutorial "**How you work with multiple configurations on your ESP32 PlatformIO project**" (https://medium.com/@androidcrypto/how-you-work-with-multiple-configurations-on-your-esp32-platformio-project-76697d0ed442) is placed here as well.
 
+I'm using the compiled firmware from the "**How you work with multiple configurations on your ESP32 PlatformIO project**" project in my tutorial "**Easily deploy and update your PlatformIO projects without an installed IDE**", available here: https://medium.com/@androidcrypto/easily-deploy-and-update-your-platformio-projects-without-an-installed-ide-6dd30162e162
+
 ## Sketches
 
 Arduino version: [Esp32_T_Display_Adafruit_Transition_v01](https://github.com/AndroidCrypto/ESP32_Transist_from_Arduino_to_PlatformIO/tree/main/Esp32_T_Display_Adafruit_Transition_v01)
